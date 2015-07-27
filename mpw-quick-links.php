@@ -101,7 +101,7 @@ $query = new WP_Query( $args );
 			<span class="link-title"><a href="'.$link_url.'">'.get_the_title().':</a></span>
 			<span class="link-info">'.get_the_content().'</span>
 			</div>
-			</div>';
+			</div><! /.quick-link-->';
 		endwhile; 
 	endif; 
 
