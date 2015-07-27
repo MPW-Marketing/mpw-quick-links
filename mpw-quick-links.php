@@ -98,7 +98,7 @@ $query = new WP_Query( $args );
 			}
 				$cont .= '"><a href="'.$link_url.'"><img class="img-icon" src="' . $thumb_url . '"/></a>
 			<div class="link-content">
-			<span class="link-title"><a href="'.$link_url.'">'.get_the_title().'</a></span><br />
+			<span class="link-title"><a href="'.$link_url.'">'.get_the_title().':</a></span>
 			<span class="link-info">'.get_the_content().'</span>
 			</div>
 			</div>';
