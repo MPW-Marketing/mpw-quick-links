@@ -1,0 +1,573 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"orig",
+				"origPos"
+			],
+			[
+				"fi",
+				"function"
+			],
+			[
+				"team",
+				"team-member-info"
+			],
+			[
+				"win",
+				"winWidth"
+			],
+			[
+				"te",
+				"team-description"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"thum",
+				"thumb_id"
+			],
+			[
+				"clea",
+				"clear"
+			],
+			[
+				"one_ha",
+				"one_half"
+			],
+			[
+				"one_half",
+				"one_half_last"
+			],
+			[
+				"thro",
+				"throttle"
+			],
+			[
+				"jQuery",
+				"jQuery"
+			],
+			[
+				"left",
+				"left-scroll"
+			],
+			[
+				"lef",
+				"leftScrollBottom"
+			],
+			[
+				"leftSc",
+				"leftScrollTop"
+			],
+			[
+				"lle",
+				"leftScrollTop"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ne",
+				"next_post"
+			],
+			[
+				"scro",
+				"scrollToTop"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"scr",
+				"scrollToTop"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"side",
+				"side_content"
+			],
+			[
+				"regtitl",
+				"regtitleidval"
+			],
+			[
+				"vid",
+				"vid-social"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ship",
+				"ship_calc_total"
+			],
+			[
+				"reg_t",
+				"reg_total"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pack",
+				"packages"
+			],
+			[
+				"contents",
+				"contents_cost"
+			],
+			[
+				"omsc-toggle",
+				"omsc-toggle-inner"
+			],
+			[
+				"omsc",
+				"omsc-expanded"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"add",
+				"add_product_shares"
+			],
+			[
+				"single",
+				"single-content"
+			],
+			[
+				"read",
+				"ready"
+			],
+			[
+				"crea",
+				"create_timeline_box"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"light",
+				"lightbox"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"lightbox",
+				"lightbox-events"
+			],
+			[
+				"next",
+				"next-post"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border",
+				"border-bottom-width"
+			],
+			[
+				"bord",
+				"border-right-width"
+			],
+			[
+				"border-le",
+				"border-left-width"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"this",
+				"thisdivtext"
+			],
+			[
+				"social",
+				"social_shares"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "a",
+		"selected_items":
+		[
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/damon/Downloads/mpw-team/mpw_team.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/.htaccess 5",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/style.css",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/jquery.simplyscroll.css",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/mpw_content_carousel 2.php",
+		"/Users/damon/Documents/review june.txt",
+		"/Users/damon/Downloads/flexboxgrid-6.2.0/src/css/flexboxgrid.css",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/footer 2.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/style 2.css",
+		"/Users/damon/Library/Application Support/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/content-servicebrand.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/liberty-additions.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/liberty_additions.js",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/content-single-product 2.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/liberty-shipping-basic 2.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/liberty-shipping-free.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/liberty-additions 2.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/sidebar 2.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/.htaccess",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/.htaccess 4",
+		"/Users/damon/Downloads/revtest.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/modernmarvels.html",
+		"/Users/damon/Documents/loopconf/a deep dive into the wordpress.com rest api",
+		"/Users/damon/Documents/loopconf/economcs of open source",
+		"/Users/damon/Documents/loopconf/using the wordpress customizer to build beautiful",
+		"/Users/damon/Documents/loopconf/using sessions and transients to remember and trav",
+		"/Users/damon/Documents/loopconf/reusing and recycleing code",
+		"/Users/damon/Documents/loopconf/javscript apps with wordpress json api",
+		"/Users/damon/Documents/loopconf/responsive all the things",
+		"/Users/damon/Documents/loopconf/performance rail's",
+		"/Users/damon/Documents/loopconf/anantomy of a critical software bug",
+		"/Users/damon/Documents/loopconf/zen and the art of software maintenance",
+		"/Users/damon/Documents/loopconf/Tools for tracing patterns in software in media js",
+		"/Users/damon/Documents/loopconf/debugging bugs with a debugger",
+		"/Users/damon/Documents/loopconf/react and flux in wordpress",
+		"/Users/damon/Documents/loopconf/impact analysis",
+		"/Users/damon/Documents/loopconf/how to scale an api to 23% of the web",
+		"/Users/damon/Documents/olv ads",
+		"/Users/damon/Documents/loopconf/learning driven development",
+		"/Users/damon/Documents/loopconf/duda mobile etai sedan - insite by duda",
+		"/Users/damon/Documents/loopconf/securing your code, wordpress security for develop",
+		"/Users/damon/Documents/loopconf/zen and the art of multisite maintenance",
+		"/Users/damon/Documents/loopconf/you are not your code- how to share code without f",
+		"/Users/damon/Documents/loopconf/working with 3rd party api's",
+		"/Users/damon/Documents/loopconf/getting better at wordpress by getting to know wor",
+		"/Users/damon/Documents/loopconf/lessons learned from running massive wordpress sit",
+		"/Users/damon/Documents/loopconf/using composer with wordpress",
+		"/Users/damon/Documents/loopconf/testing your wp plugins",
+		"/Users/damon/Documents/loopconf/automating wordpress frontend development",
+		"/Users/damon/Documents/loopconf/empathy in web development",
+		"/Users/damon/Documents/loopconf/using wordpress as a platform for complex enterpri",
+		"/Users/damon/Documents/loopconf/wpengine",
+		"/Users/damon/Documents/loopconf/commitment to backwards compatiblity",
+		"/Users/damon/Documents/loopconf/overcoming the curse of perfection",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/center-image.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/branding.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/header 3.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/page 2.php",
+		"/Users/damon/Downloads/team system dz hacked file.html",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/index.html",
+		"/Users/damon/sass-test/sec.scss",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/classic.php",
+		"/Users/damon/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/damon/olv-additions/olv-additons.php",
+		"/Users/damon/track-lightbox-events/track_events.php",
+		"/Users/damon/track-lightbox-events/js/lightbox-events.js",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/single.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/olv_twitter.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/footer.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/functions.php",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/header.php",
+		"/Users/damon/Downloads/onlocationvacations.wordpress.2015-03-23.xml",
+		"/Users/damon/Downloads/olv xml 2 .xml",
+		"/Users/damon/Documents/mvpn.mpwstaging.com/dbdmp.sql",
+		"/Users/damon/Documents/mvpn.mpwstaging.com/db2.sql",
+		"/Users/damon/Downloads/vnahome_wrdp1_st1.sql",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/database 3.yml",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/database.yml",
+		"/Users/damon/Documents/warren.mpwclient.com_manual_full_2015-01-30_f2a14fc48b665ba4d14ecda19950c163/wp-content/themes/mpw/style.css",
+		"/Users/damon/Downloads/OwlCarousel2-master/src/css/owl.autoheight.css",
+		"/Users/damon/Downloads/pio/wp_7vterm_postmeta.sql",
+		"/Users/damon/Downloads/pio/wp_7vterm_posts.sql",
+		"/Users/damon/Proactive-Technologies/lib/refinery/tasks/refinery.rake",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/alls.sql",
+		"/Users/damon/Downloads/slugs (1).sql",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/private/var/folders/tv/_t7yvygn03q7l_0fgjfq8_j40000gn/T/fz3temp-1/database 2.yml",
+		"/Users/damon/Downloads/accesslog-fahykitchens.com-07-30-2014-17-53-32-0000",
+		"/Users/damon/Downloads/nomad-img-hover/hov.js",
+		"/Users/damon/Downloads/nomad-img-hover/hover-img.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"moveToFooter",
+			"dura",
+			" !important;",
+			"colu",
+			"WC_First_Shipping_Method",
+			"shipping_method_init",
+			"article__featured-image a",
+			"galler",
+			"\"",
+			"#pre-content",
+			"sear",
+			"\"",
+			"@med",
+			"<wp:post_type>",
+			"<wp:post_type>post",
+			"coordinator",
+			"coordinat",
+			"Team Leader",
+			"Customer Service Center",
+			"wp_7vterm_posts",
+			"safe",
+			"37.115.186.114",
+			"162.136.192.1",
+			".back",
+			"phpi",
+			"myplugin_meta_box",
+			"A",
+			" * Author URI: http://URI_Of_The_Plugin_Author",
+			"hov"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";",
+			"'",
+			"\\\"",
+			".pre-content",
+			"\\\"",
+			"wp_posts"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "quicklinks.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
