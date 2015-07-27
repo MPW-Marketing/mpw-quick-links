@@ -2,7 +2,7 @@
 /*
 Plugin Name: MPW Quick Links
 Description: Add Large Button like qucik links
-Version:     0.1-alpha
+Version:     0.1.1-alpha
 Text Domain: mpw-quick-links
 
  */
